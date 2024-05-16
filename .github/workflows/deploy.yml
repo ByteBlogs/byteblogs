@@ -39,12 +39,6 @@ jobs:
               with:
                   node-version: '18'
                   cache: 'npm'
-            - name: Setup Hugo
-              run: |
-                  curl -L -o /tmp/hugo.tar.gz 'https://github.com/gohugoio/hugo/releases/download/v0.126.0/hugo_extended_0.126.0_linux-amd64.tar.gz'
-                  tar -C ${RUNNER_TEMP} -zxvf /tmp/hugo.tar.gz hugo
-            - name: Build
-              run: ${RUNNER_TEMP}/hugo
             - name: Setup Pages
               id: pages
               uses: actions/configure-pages@v4
@@ -77,4 +71,3 @@ jobs:
             - name: Deploy to GitHub Pages
               id: deployment
               uses: actions/deploy-pages@v3
-
