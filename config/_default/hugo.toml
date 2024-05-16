@@ -1,6 +1,5 @@
 title = "ByteBlogs"
 baseurl = "https://ByteBlogs.github.io/byteblogs/"
-canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
