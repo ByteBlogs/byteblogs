@@ -37,7 +37,7 @@
   post = "v0.1.0"
   weight = 30
 
-[[footer]]
-  name = "Contact Us"
-  url = "/privacy/"
-  weight = 10
+# [[footer]]
+#   name = "Contact Us"
+#   url = "/privacy/"
+#   weight = 10
