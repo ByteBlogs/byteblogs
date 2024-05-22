@@ -2,3 +2,5 @@
 node_modules/
 public/
 resources/
+content/blog/demo
+content/docs
