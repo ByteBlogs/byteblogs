@@ -6,8 +6,8 @@ images = ["cover.png"]
 # mainSections
 mainSections = ["docs"]
 
-[social]
-  twitter = "getdoks"
+# [social]
+#   twitter = "getdoks"
 
 # Doks (@hyas/doks-core)
 [doks]
@@ -21,8 +21,8 @@ mainSections = ["docs"]
 
   ## Button
   navBarButton = false # false (default) or true
-  navBarButtonUrl = "/docs/prologue/introduction/"
-  navBarButtonText = "Get started"
+  # navBarButtonUrl = "/docs/prologue/introduction/"
+  # navBarButtonText = "Get started"
 
   # FlexSearch
   flexSearch = true # true (default) or false
