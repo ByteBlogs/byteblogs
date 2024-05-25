@@ -9,6 +9,8 @@ languageCode = "en-US"
 paginate = 10
 rssLimit = 10
 summarylength = 20 # 70 (default)
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
 
 # Multilingual
 defaultContentLanguage = "en"
@@ -52,6 +54,7 @@ defaultContentLanguageInSubdir = false
   contributor = "contributors"
   category = "categories"
   tag = "tags"
+  docs = "docs"
 
 [permalinks]
   blog = "/blog/:slug/"
