@@ -17,7 +17,8 @@
     "@hyas/inline-svg": "^1.1.0",
     "@hyas/seo": "^2.3.0",
     "@tabler/icons": "^3.2.0",
-    "gethyas": "^2.4.2"
+    "gethyas": "^2.4.2",
+    "shx": "^0.3.4"
   },
   "devDependencies": {
     "prettier": "^3.2.5",
