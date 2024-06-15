@@ -9,7 +9,8 @@ languageCode = "en-US"
 paginate = 10
 rssLimit = 10
 summarylength = 20 # 70 (default)
-disableKinds = ["taxonomy"]
+disableKinds = ["RSS", "sitemap"]
+# disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 
 # Multilingual
