@@ -31,6 +31,27 @@ npm install
 npm run dev
 ```
 
+### To create new blog <span style="color: red">\*</span>
+
+```bash
+npm run create blog/blog_name/index.md
+```
+
+<span style="color:red">_Note:</span> Always stop the server to create new blog and Rebuild the project_
+
+### To add cover image
+
+```bash
+byteblogs/
+├── content/
+│   └── blog/
+│       └── blog_name/
+│           ├── index.md
+│           └── cover.png
+```
+
+The width of the cover image should be of the following **[480, 576, 768, 1025, 1200, 1440]**
+
 ### To rebuild project
 
 ```bash
