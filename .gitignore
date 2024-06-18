@@ -3,3 +3,4 @@ node_modules/
 public/
 resources/
 content/blog/demo
+hugo_stats.json
