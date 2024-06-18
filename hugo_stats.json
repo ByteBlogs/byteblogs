@@ -4,7 +4,6 @@
       "a",
       "article",
       "base",
-      "blockquote",
       "body",
       "button",
       "circle",
@@ -60,7 +59,6 @@
       "card",
       "card-body",
       "card-list",
-      "card-terms",
       "categories",
       "col-lg-10",
       "col-lg-12",
@@ -68,6 +66,7 @@
       "col-lg-9",
       "col-md-12",
       "col-md-13",
+      "col-xl-10",
       "col-xl-8",
       "container",
       "container-fluid",
@@ -113,7 +112,6 @@
       "justify-content-start",
       "lazyload",
       "lead",
-      "link-muted",
       "list",
       "list-inline",
       "list-inline-item",
@@ -188,7 +186,6 @@
       "stretched-link",
       "submitted",
       "taxonomy",
-      "term",
       "text-body",
       "text-center",
       "text-decoration-none",
@@ -205,9 +202,7 @@
       "TableOfContents",
       "buttonColorMode",
       "demo",
-      "demoo123",
       "further-reading",
-      "hello-from-world",
       "offcanvasNavMain",
       "offcanvasNavMainLabel",
       "query",
@@ -218,9 +213,7 @@
       "searchToggleDesktop",
       "searchToggleMobile",
       "socialMenu",
-      "toTop",
-      "toc-1",
-      "toc-2"
+      "toTop"
     ]
   }
 }

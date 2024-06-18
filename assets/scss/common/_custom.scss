@@ -157,3 +157,11 @@ img.zoomed {
     z-index: 100000;
     background: black;
 }
+
+.home .card {
+    transition: transform 0.3s;
+}
+
+.home .card:hover {
+    transform: scale(1.025);
+}
