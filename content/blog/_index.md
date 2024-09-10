@@ -1,7 +1,7 @@
 ---
-title: "Blog 📖"
+title: "Blogs 📖"
 description: ""
-summary: "From beginner-friendly tutorials to advanced techniques, we've got you covered."
+summary: "Explore insightful articles and tutorials on DevOps, cloud computing, databases, and cutting-edge technologies, all designed to enhance your technical expertise on ByteBlogs."
 date: 2023-09-07T16:21:44+02:00
 lastmod: 2023-09-07T16:21:44+02:00
 draft: false
