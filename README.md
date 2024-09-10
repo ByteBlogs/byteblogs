@@ -1,6 +1,6 @@
 # ByteBlogs
 
-ByteBlogs uses theme from [Hyas](https://gethyas.com/) - [Doks](https://getdoks.org/)
+ByteBlogs uses theme from [Thulite](https://thulite.io/) - [Doks](https://getdoks.org/)
 
 This website is designed by [Pranav Dhawale](https://github.com/pranavdhawale) & [Gajanan More](https://github.com/gajanan-more)
 
