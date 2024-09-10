@@ -165,3 +165,9 @@ img.zoomed {
 .home .card:hover {
     transform: scale(1.025);
 }
+
+// Put your custom SCSS code here
+.single.blog .content p,
+.list.blog .content p {
+    font-size: $font-size-base * 1.375;
+}
