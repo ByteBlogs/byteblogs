@@ -1,6 +1,6 @@
 # Hugo
 title = "ByteBlogs"
-description = "Here will come the description"
+description = "Your one-stop shop for everything in DevOps, Databases, Cloud Computing, and System Architecture, with an abundance of information and skill."
 images = ["cover.png"]
 
 # mainSections
@@ -12,7 +12,7 @@ mainSections = ["docs"]
 # Doks (@hyas/doks-core)
 [doks]
   # Color mode
-  colorMode = "auto" # auto (default), light or dark
+  colorMode = "light" # auto (default), light or dark
   colorModeToggler = true # true (default) or false (this setting is only relevant when colorMode = auto)
 
   # Navbar
